@@ -4,10 +4,10 @@ Summary: Unwanted scroll back to non-ASCII anchor on reload
 
 Steps to reproduce:
 
-0. Get the attached `anchors.html`
-1. Open `file:///path/to/anchors.html#中文` in Firefox
-2. Scroll away from the "Non-ASCII anchor" heading
-3. Reload the page
+1. Get the attached `anchors.html`
+2. Open `file:///path/to/anchors.html#中文` in Firefox
+3. Scroll away from the "Non-ASCII anchor" heading
+4. Reload the page
 
 Expected behaviour:
 - Page preserves the new scroll position on reload
