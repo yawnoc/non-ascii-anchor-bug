@@ -1,5 +1,7 @@
 # Non-ASCII anchor bug (Firefox)
 
+Summary: Unwanted scroll back to non-ASCII anchor on reload
+
 Steps to reproduce:
 
 0. Get the attached `anchors.html`
