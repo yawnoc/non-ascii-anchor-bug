@@ -4,7 +4,7 @@ Steps to reproduce:
 
 1. Open `file:///path/to/anchors.html#中文` in Firefox
 2. Scroll away from the "Non-ASCII anchor" heading
-3. Refresh the page
+3. Reload the page
 
 Expected behaviour:
 - Page preserves the new scroll position on refresh
