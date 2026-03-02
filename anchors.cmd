@@ -1,5 +1,10 @@
 # Anchors
 
+==
+- [Go to ASCII anchor](#ascii)
+- [Go to Non-ASCII anchor](#中文)
+==
+
 ##{#ascii} ASCII anchor
 
 --
