@@ -8,7 +8,7 @@ Steps to reproduce:
 3. Reload the page
 
 Expected behaviour:
-- Page preserves the new scroll position on refresh
+- Page preserves the new scroll position on reload
 
 Observed behaviour:
 - Page scrolls back to the "Non-ASCII anchor" heading
